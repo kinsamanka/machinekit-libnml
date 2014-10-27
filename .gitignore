@@ -7,4 +7,13 @@ cmake_install.cmake
 build
 */Makefile
 Makefile
+CPackConfig.cmake
+CPackSourceConfig.cmake
+inivar
+libinifile.a
+libnml.so
+libposemath-posix.a
+libposemath-rtpreempt.a
+libposemath-xenomai.a
+libposemath.so
 
